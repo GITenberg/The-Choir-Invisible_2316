@@ -1,5 +1,8 @@
 _repo: The-Choir-Invisible_2316
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, James Lane
@@ -16,6 +19,8 @@ description: The Shelf2Life Literature and Fiction Collection is a unique set of
   and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
   provides readers with an opportunity to enjoy and study these iconic literary works,
   many of which were written during a period of remarkable creativity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2316#The-Choir-Invisible
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
