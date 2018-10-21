@@ -1,5 +1,5 @@
 _repo: The-Choir-Invisible_2316
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Kentucky -- Fiction'
+- GITenberg
 title: The Choir Invisible
 url: http://www.gutenberg.org/ebooks/2316
